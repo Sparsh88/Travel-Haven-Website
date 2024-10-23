@@ -23,6 +23,14 @@ nav ul li {
 
 }
 
+.navbar a:hover{
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+    transform: scale(1.1);
+    transition: ease-out;
+}
+
 nav a {
     color: white;
     text-decoration: none;
